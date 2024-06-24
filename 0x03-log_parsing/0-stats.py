@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-'''A script for parsing HTTP request logs.
+'''Module for task 0 stats
 '''
+
+
 import re
 
 
